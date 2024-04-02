@@ -1,0 +1,8 @@
+{
+	"Name": "Reduced Rod Requirements",
+	"ModGUID": "xen.ReducedRodRequirements",
+	"Version": "0.0.1",
+	"ModAssembly": "ReducedRodRequirements.dll",
+	"MinWinchVersion": "0.2.3",
+	"Entrypoint": "ReducedRodRequirements.Loader/Initialize"
+}
